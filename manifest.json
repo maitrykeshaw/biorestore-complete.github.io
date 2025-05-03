@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"BioRestore Complete™ | Official - 100% Natural Formula",
+  "short_name":"BioRestore Complete™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"BioRestore Complete is an effective skin serum that hydrates, supports, and nourishes the skin while eliminating dark spots.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
